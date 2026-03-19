@@ -1,5 +1,5 @@
 ---
-name: hook-development
+name: nextjs-tanstack-hooks
 description: >
   Enforces hook development conventions for this Next.js project: file structure,
   TanStack Query patterns, query key factory, typing, and anti-pattern prevention.
@@ -10,7 +10,7 @@ description: >
 license: MIT
 metadata:
   author: suig-team
-  version: "3.0.0"
+  version: "3.1.0"
 ---
 
 ## Purpose

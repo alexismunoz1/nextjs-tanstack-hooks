@@ -1,11 +1,11 @@
-# hook-development
+# nextjs-tanstack-hooks
 
 Enforces hook development conventions for Next.js projects: file structure, TanStack Query patterns, query key factory, typing, and anti-pattern prevention. Use when creating, modifying, or reviewing custom React hooks.
 
 ## Installation
 
 ```bash
-npx skills add alexismunoz1/hook-development
+npx skills add alexismunoz1/nextjs-tanstack-hooks
 ```
 
 ## What is this?
